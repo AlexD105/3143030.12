@@ -6,5 +6,4 @@ public class Expectations {
     public String getName() {
         return name;
     }
-
 }
