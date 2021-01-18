@@ -9,7 +9,6 @@ public class Sounds {
         return name;
     }
 
-
     public void heard(PredlogUSSR soyuznerushimiy) {
         switch (soyuznerushimiy) {
             case NA:
