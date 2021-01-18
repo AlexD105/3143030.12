@@ -10,9 +10,7 @@ public class Emotion {
             }
         }
     }
-
     public String getName(){
         return name;
     }
-
 }
