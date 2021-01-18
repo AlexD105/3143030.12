@@ -6,5 +6,4 @@ public class Words {
     public String getName() {
         return name;
     }
-
 }
