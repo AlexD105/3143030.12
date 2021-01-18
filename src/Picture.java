@@ -42,7 +42,6 @@ public class Picture implements Flashing{
             }
         }
         System.out.print(name + "ми ");
-
     }
 
     public void appear(PredlogUSSR soyuznerushimiy, String where){
@@ -84,7 +83,6 @@ public class Picture implements Flashing{
                 break;
         }
         System.out.print("искаженной " + name.substring(0, name.length() - 1) + "ей");
-
     }
 
     public void soyuz(PredlogUSSR soyuznerushimiy) {
@@ -98,7 +96,6 @@ public class Picture implements Flashing{
 
     public void flash(String when){
         System.out.print(when + " замелькали " + name);
-
     }
 }
 
