@@ -6,7 +6,6 @@ public abstract class Bodyparts{
     public String getName() {
         return name;
     }
-
     public void healed(String what) {
         System.out.print(getName() + " зажил с помощью " + what);
     }
@@ -29,8 +28,4 @@ public abstract class Bodyparts{
         }
         return null;
     }
-
-
-
-
 }
