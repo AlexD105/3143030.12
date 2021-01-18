@@ -8,7 +8,6 @@ public class Strengths {
     }
     public void suffered(String what){
         System.out.print(name + " понесла " + what + " ");
-
     }
 }
 
