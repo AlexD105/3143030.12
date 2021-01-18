@@ -37,5 +37,4 @@ public class TVthings {
     public void gout(String how) {
         System.out.print(getName()+"ы " + how + " погасли" );
     }
-
 }
