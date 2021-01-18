@@ -6,7 +6,6 @@ public class FacialExpressions {
     public String getName() {
         return name;
     }
-
     public void ntexit() {
         System.out.print(name + " не сходило");
     }
