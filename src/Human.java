@@ -1,5 +1,4 @@
 import com.sun.org.apache.xpath.internal.operations.Bool;
-
 import java.util.Objects;
 
 public class Human implements Sized {
@@ -172,7 +171,4 @@ public class Human implements Sized {
             throw new DoPersonHaveNameOrNot("Отсутствует имя");
         }
     }
-
-
-
 }
