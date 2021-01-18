@@ -9,5 +9,4 @@ public class Weapon {
     public void found(String where, String time) {
         System.out.print(time + " " + name + " очутилась " + where);
     }
-
 }
