@@ -10,5 +10,4 @@ public class Movement {
     public void msimpression(String who) {
         System.out.print(name + " произвел очень сильное впечатление на " + who);
     }
-
 }
